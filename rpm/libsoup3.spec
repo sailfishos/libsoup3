@@ -1,11 +1,11 @@
 %global glib2_version 2.69.1
 
 Name:    libsoup3
-Version: 3.4.4
+Version: 3.6.5
 Release: 1
 Summary: Soup, an HTTP library implementation
 License: LGPLv2+
-URL:     https://wiki.gnome.org/Projects/libsoup
+URL:     https://github.com/sailfishos/libsoup3
 Source0: %{name}-%{version}.tar.xz
 
 BuildRequires: gettext
