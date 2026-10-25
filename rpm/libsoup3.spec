@@ -1,7 +1,7 @@
-%global glib2_version 2.69.1
+%global glib2_version 2.70.0
 
 Name:    libsoup3
-Version: 3.6.6
+Version: 3.8.0
 Release: 1
 Summary: Soup, an HTTP library implementation
 License: LGPLv2+
